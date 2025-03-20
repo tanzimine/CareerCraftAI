@@ -4,7 +4,7 @@ A cutting-edge AI-powered career development platform that helps professionals a
 **CLICK THE LINK FOR A LIVE DEMO!**
 🔗 *****[Live Demo](https://career-craft-ai-liart.vercel.app/)*****
 
-![Screenshot](<img width="805" alt="Image" src="https://github.com/user-attachments/assets/48fc8288-35ef-4d36-bf00-cd5080e4ddc6" />)
+<img width="805" alt="Image" src="https://github.com/user-attachments/assets/48fc8288-35ef-4d36-bf00-cd5080e4ddc6" />
 
 ## 🌟 Key Features
 
