@@ -5,6 +5,7 @@ A cutting-edge AI-powered career development platform that helps professionals a
 🔗 *****[Live Demo](https://career-craft-ai-liart.vercel.app/)*****
 
 <img width="805" alt="Image" src="https://github.com/user-attachments/assets/48fc8288-35ef-4d36-bf00-cd5080e4ddc6" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/21a9119a-783b-43ba-9559-9c050337b023" />
 
 ## 🌟 Key Features
 
@@ -18,7 +19,7 @@ A cutting-edge AI-powered career development platform that helps professionals a
 - Skills and experience sections
 - One-click PDF download
 
-![Resume Builder](public/screenshots/resume-builder.png)
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/51627486-e8cd-4bd7-94c2-0329de4e13e5" />
 
 ### 2. Intelligent Cover Letter Generator
 - Context-aware content generation
@@ -28,7 +29,7 @@ A cutting-edge AI-powered career development platform that helps professionals a
 - Job details integration
 - Tailored content based on job description
 
-![Cover Letter Generator](public/screenshots/cover-letter.png)
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/d3cc4746-8c18-45e9-9a34-d47e1b0f13fc" />
 
 ### 3. Advanced Interview Preparation
 - Industry-specific question bank
@@ -39,9 +40,9 @@ A cutting-edge AI-powered career development platform that helps professionals a
 - Detailed explanations for each answer
 - Progress tracking over time
 
-![Mock Interview](public/screenshots/mock-interview.png)
-![Interview Results](public/screenshots/interview-results.png)
-![Interview Preparation](public/screenshots/interview-prep.png)
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/7941ffa5-40b5-415f-8cca-a395b965dd0e" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/af57d76b-e684-47a3-b0c7-1ab869b96975" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/87686775-596c-4ffd-84a0-2ca7d6489bdc" />
 
 ### 4. Industry Insights
 - Real-time market trends
@@ -53,7 +54,7 @@ A cutting-edge AI-powered career development platform that helps professionals a
 - Demand level indicators
 - Top skills tracking
 
-![Industry Insights](public/screenshots/industry-insights.png)
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/4b304ac8-646e-421b-b832-3df8053330f8" />
 
 ### 5. Professional Profile Management
 - Comprehensive profile setup
@@ -63,7 +64,7 @@ A cutting-edge AI-powered career development platform that helps professionals a
 - Bio customization
 - Career path visualization
 
-![Profile Setup](public/screenshots/profile-setup.png)
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/21a9119a-783b-43ba-9559-9c050337b023" />
 
 ## 🛠️ Technology Stack
 
