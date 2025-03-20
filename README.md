@@ -2,7 +2,7 @@
 
 A cutting-edge AI-powered career development platform that helps professionals advance their careers through personalized guidance, industry insights, and intelligent tools.
 
-🔗 **[Live Demo](https://career-craft-ai-liart.vercel.app/)**
+🔗 *****[Live Demo](https://career-craft-ai-liart.vercel.app/)*****
 
 ![CareerCraftAI Landing](public/banner.jpeg)
 
