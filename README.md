@@ -1,10 +1,10 @@
 # CareerCraftAI 🚀
 
 A cutting-edge AI-powered career development platform that helps professionals advance their careers through personalized guidance, industry insights, and intelligent tools.
-**CLICK THE LINKI BELOW FOR A LIVE DEMO!**
+**CLICK THE LINK FOR A LIVE DEMO!**
 🔗 *****[Live Demo](https://career-craft-ai-liart.vercel.app/)*****
 
-![CareerCraftAI Landing]()
+![Screenshot](<img width="805" alt="Image" src="https://github.com/user-attachments/assets/48fc8288-35ef-4d36-bf00-cd5080e4ddc6" />)
 
 ## 🌟 Key Features
 
